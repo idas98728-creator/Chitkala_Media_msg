@@ -3,7 +3,7 @@ streamlit==1.28.0
 pandas==2.1.0
 openpyxl==3.1.2
 pyperclip==1.8.2
-shutilwhich==0.1.0  # optional if you use shutil.which, usually part of stdlib
+#shutilwhich==0.1.0  # optional if you use shutil.which, usually part of stdlib
 
 # Selenium for browser automation
 selenium==5.11.0
