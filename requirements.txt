@@ -6,4 +6,4 @@ pyperclip==1.8.2
 selenium==4.10.0
 
 # Webdriver manager (optional, if you want automatic ChromeDriver download)
-webdriver-manager==4.2.2
+webdriver-manager==4.0.2
